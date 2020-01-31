@@ -1,6 +1,7 @@
-�R�[�f�B���O���[��
-�E�ϐ�����privete��lowerCamel�Cpublic��UpperCamel�ŁD
-�E�֐����͂��ׂ�UpperCamel�ŁD
-�E�R�����g�͂Ȃ�ׂ������܂��傤
-�E�R�~�b�g�R�����g�́uissue #�iissue�ԍ��j�v�ŁCgithub���issue�ɃR�����g�ŕύX�_�ȂǏ����܂��傤
-�E�����̒S���ȊO�̃V�[���͂�����Ȃ��悤�ɂ��܂��傤
+コーディングルール
+・変数名はpriveteはlowerCamel，publicはUpperCamelで．
+・関数名はすべてUpperCamelで．
+・シーンはすべてUpperCamelで．
+・コメントはなるべく書きましょう
+・コミットコメントは「issue #（issue番号）」で，github上のissueにコメントで変更点など書きましょう
+・自分の担当以外のシーンはいじらないようにしましょう
