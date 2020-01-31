@@ -1,0 +1,6 @@
+コーディングルール
+・変数名はpriveteはlowerCamel，publicはUpperCamelで．
+・関数名はすべてUpperCamelで．
+・コメントはなるべく書きましょう
+・コミットコメントは「issue #（issue番号）」で，github上のissueにコメントで変更点など書きましょう
+・自分の担当以外のシーンはいじらないようにしましょう
